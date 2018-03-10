@@ -7,3 +7,4 @@ Gitの練習
 2つめのテキスト用意したあとに編集
 
 git status
+git diff
